@@ -1,4 +1,4 @@
-Introduction:
+**Introduction:**
 
 Diabetes is a chronic disease, which is becoming common and found in every 
 third person near you. According to WHO, the Centres for Disease Control and 
